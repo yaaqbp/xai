@@ -1,0 +1,388 @@
+NAZWA,OPIS
+Y,Dochód klienta
+X1,Sumaryczna kwota transakcji w bankomatach w ostatnim pełnym miesiącu 
+X2,Sumaryczna kwota transakcji w bankomatach w 3 ostatnich miesiącach 
+X3,Sumaryczna kwota transakcji w bankomatach w 6 ostatnich miesiącach 
+X4,Średnia kwota transakcji w bankomatach w 3 ostatnich miesiącach 
+X5,Sumaryczna liczba transakcji w bankomatach w ostatnim pełnym miesiącu 
+X6,Sumaryczna liczba transakcji w bankomatach w 3 ostatnich miesiącach 
+X7,Sumaryczna liczba transakcji w bankomatach w 6 ostatnich miesiącach 
+X8,Sumaryczna kwota wydatków klienta związanych z abonamentem za telefon i telewizję w ostatnim pełnym miesiącu 
+X9,Sumaryczna kwota wydatków klienta związanych z abonamentem za telefon i telewizję w 3 ostatnich miesiącach 
+X10,Sumaryczna kwota wydatków klienta związanych z abonamentem za telefon i telewizję w 6 ostatnich miesiącach 
+X11,Średnia kwota wydatków klienta związanych z abonamentem za telefon i telewizję w 3 ostatnich miesiącach 
+X12,Sumaryczna liczba wydatków klienta związanych z abonamentem za telefon i telewizję w ostatnim pełnym miesiącu 
+X13,Sumaryczna liczba wydatków klienta związanych z abonamentem za telefon i telewizję w 3 ostatnich miesiącach 
+X14,Sumaryczna liczba wydatków klienta związanych z abonamentem za telefon i telewizję w 6 ostatnich miesiącach 
+X15,Udział kwoty wydatków klienta związanych z abonamentem za telefon i telewizję w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X16,Udział kwoty wydatków klienta związanych z abonamentem za telefon i telewizję w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X17,Udział kwoty wydatków klienta związanych z abonamentem za telefon i telewizję w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X18,Sumaryczna kwota wydatków klienta  związanych z płaconymi alimentami  w ostatnim pełnym miesiącu 
+X19,Sumaryczna kwota wydatków klienta  związanych z płaconymi alimentami  w 3 ostatnich miesiącach 
+X20,Sumaryczna kwota wydatków klienta  związanych z płaconymi alimentami  w 6 ostatnich miesiącach 
+X21,Średnia kwota wydatków klienta  związanych z płaconymi alimentami  w 3 ostatnich miesiącach 
+X22,Sumaryczna liczba wydatków klienta  związanych z płaconymi alimentami  w ostatnim pełnym miesiącu 
+X23,Sumaryczna liczba wydatków klienta  związanych z płaconymi alimentami  w 3 ostatnich miesiącach 
+X24,Sumaryczna liczba wydatków klienta  związanych z płaconymi alimentami  w 6 ostatnich miesiącach 
+X25,Udział kwoty wydatków klienta  związanych z płaconymi alimentami  w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X26,Udział kwoty wydatków klienta  związanych z płaconymi alimentami  w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X27,Udział kwoty wydatków klienta  związanych z płaconymi alimentami  w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X28,Sumaryczna kwota wydatków klienta w aptekach w ostatnim pełnym miesiącu 
+X29,Sumaryczna kwota wydatków klienta w aptekach w 3 ostatnich miesiącach 
+X30,Sumaryczna kwota wydatków klienta w aptekach w 6 ostatnich miesiącach 
+X31,Średnia kwota wydatków klienta w aptekach w 3 ostatnich miesiącach 
+X32,Sumaryczna liczba wydatków klienta w aptekach w ostatnim pełnym miesiącu 
+X33,Sumaryczna liczba wydatków klienta w aptekach w 3 ostatnich miesiącach 
+X34,Sumaryczna liczba wydatków klienta w aptekach w 6 ostatnich miesiącach 
+X35,Udział kwoty wydatków klienta w aptekach w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X36,Udział kwoty wydatków klienta w aptekach w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X37,Udział kwoty wydatków klienta w aptekach w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X38,Sumaryczna kwota wydatków klienta na paliwo w ostatnim pełnym miesiącu 
+X39,Sumaryczna kwota wydatków klienta na paliwo w 3 ostatnich miesiącach 
+X40,Sumaryczna kwota wydatków klienta na paliwo w 6 ostatnich miesiącach 
+X41,Średnia kwota wydatków klienta na paliwo w 3 ostatnich miesiącach 
+X42,Sumaryczna liczba wydatków klienta na paliwo w ostatnim pełnym miesiącu 
+X43,Sumaryczna liczba wydatków klienta na paliwo w 3 ostatnich miesiącach 
+X44,Sumaryczna liczba wydatków klienta na paliwo w 6 ostatnich miesiącach 
+X45,Udział kwoty wydatków klienta na paliwo w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X46,Udział kwoty wydatków klienta na paliwo w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X47,Udział kwoty wydatków klienta na paliwo w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X48,Sumaryczna kwota wydatków klienta  w ostatnim pełnym miesiącu 
+X49,Sumaryczna kwota wydatków klienta  w 3 ostatnich miesiącach 
+X50,Sumaryczna kwota wydatków klienta  w 6 ostatnich miesiącach 
+X51,Średnia kwota wydatków klienta  w 3 ostatnich miesiącach 
+X52,Sumaryczna liczba wydatków klienta  w ostatnim pełnym miesiącu 
+X53,Sumaryczna liczba wydatków klienta  w 3 ostatnich miesiącach 
+X54,Sumaryczna liczba wydatków klienta  w 6 ostatnich miesiącach 
+X55,Sumaryczna kwota wydatków klienta na cele charytatywne w ostatnim pełnym miesiącu 
+X56,Sumaryczna kwota wydatków klienta na cele charytatywne w 3 ostatnich miesiącach 
+X57,Sumaryczna kwota wydatków klienta na cele charytatywne w 6 ostatnich miesiącach 
+X58,Średnia kwota wydatków klienta na cele charytatywne w 3 ostatnich miesiącach 
+X59,Sumaryczna liczba wydatków klienta na cele charytatywne w ostatnim pełnym miesiącu 
+X60,Sumaryczna liczba wydatków klienta na cele charytatywne w 3 ostatnich miesiącach 
+X61,Sumaryczna liczba wydatków klienta na cele charytatywne w 6 ostatnich miesiącach 
+X62,Udział kwoty wydatków klienta na cele charytatywne w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X63,Udział kwoty wydatków klienta na cele charytatywne w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X64,Udział kwoty wydatków klienta na cele charytatywne w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X65,"Sumaryczna kwota wydatków klienta związanych z domem tj. czynsz, media,spółdzielnia w ostatnim pełnym miesiącu "
+X66,"Sumaryczna kwota wydatków klienta związanych z domem tj. czynsz, media,spółdzielnia w 3 ostatnich miesiącach "
+X67,"Sumaryczna kwota wydatków klienta związanych z domem tj. czynsz, media,spółdzielnia w 6 ostatnich miesiącach "
+X68,"Średnia kwota wydatków klienta związanych z domem tj. czynsz, media,spółdzielnia w 3 ostatnich miesiącach "
+X69,"Sumaryczna liczba wydatków klienta związanych z domem tj. czynsz, media,spółdzielnia w ostatnim pełnym miesiącu "
+X70,"Sumaryczna liczba wydatków klienta związanych z domem tj. czynsz, media,spółdzielnia w 3 ostatnich miesiącach "
+X71,"Sumaryczna liczba wydatków klienta związanych z domem tj. czynsz, media,spółdzielnia w 6 ostatnich miesiącach "
+X72,"Udział kwoty wydatków klienta związanych z domem tj. czynsz, media,spółdzielnia w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu "
+X73,"Udział kwoty wydatków klienta związanych z domem tj. czynsz, media,spółdzielnia w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach "
+X74,"Udział kwoty wydatków klienta związanych z domem tj. czynsz, media,spółdzielnia w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach "
+X75,Sumaryczna kwota wydatków klienta związanych z dekoracjami w ostatnim pełnym miesiącu 
+X76,Sumaryczna kwota wydatków klienta związanych z dekoracjami w 3 ostatnich miesiącach 
+X77,Sumaryczna kwota wydatków klienta związanych z dekoracjami w 6 ostatnich miesiącach 
+X78,Średnia kwota wydatków klienta związanych z dekoracjami w 3 ostatnich miesiącach 
+X79,Sumaryczna liczba wydatków klienta związanych z dekoracjami w ostatnim pełnym miesiącu 
+X80,Sumaryczna liczba wydatków klienta związanych z dekoracjami w 3 ostatnich miesiącach 
+X81,Sumaryczna liczba wydatków klienta związanych z dekoracjami w 6 ostatnich miesiącach 
+X82,Udział kwoty wydatków klienta związanych z dekoracjami w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X83,Udział kwoty wydatków klienta związanych z dekoracjami w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X84,Udział kwoty wydatków klienta związanych z dekoracjami w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X85,Sumaryczna kwota wydatków klienta w delikatesach w ostatnim pełnym miesiącu 
+X86,Sumaryczna kwota wydatków klienta w delikatesach w 3 ostatnich miesiącach 
+X87,Sumaryczna kwota wydatków klienta w delikatesach w 6 ostatnich miesiącach 
+X88,Średnia kwota wydatków klienta w delikatesach w 3 ostatnich miesiącach 
+X89,Sumaryczna liczba wydatków klienta w delikatesach w ostatnim pełnym miesiącu 
+X90,Sumaryczna liczba wydatków klienta w delikatesach w 3 ostatnich miesiącach 
+X91,Sumaryczna liczba wydatków klienta w delikatesach w 6 ostatnich miesiącach 
+X92,Udział kwoty wydatków klienta w delikatesach w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X93,Udział kwoty wydatków klienta w delikatesach w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X94,Udział kwoty wydatków klienta w delikatesach w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X95,Sumaryczna kwota wydatków klienta w dyskontach w ostatnim pełnym miesiącu 
+X96,Sumaryczna kwota wydatków klienta w dyskontach w 3 ostatnich miesiącach 
+X97,Sumaryczna kwota wydatków klienta w dyskontach w 6 ostatnich miesiącach 
+X98,Średnia kwota wydatków klienta w dyskontach w 3 ostatnich miesiącach 
+X99,Sumaryczna liczba wydatków klienta w dyskontach w ostatnim pełnym miesiącu 
+X100,Sumaryczna liczba wydatków klienta w dyskontach w 3 ostatnich miesiącach 
+X101,Sumaryczna liczba wydatków klienta w dyskontach w 6 ostatnich miesiącach 
+X102,Udział kwoty wydatków klienta w dyskontach w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X103,Udział kwoty wydatków klienta w dyskontach w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X104,Udział kwoty wydatków klienta w dyskontach w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X105,"Sumaryczna kwota wydatków klienta związanych z dziećmi tj. zabawki, opiekunki, ubranka i kolonie w ostatnim pełnym miesiącu "
+X106,"Sumaryczna kwota wydatków klienta związanych z dziećmi tj. zabawki, opiekunki, ubranka i kolonie w 3 ostatnich miesiącach "
+X107,"Sumaryczna kwota wydatków klienta związanych z dziećmi tj. zabawki, opiekunki, ubranka i kolonie w 6 ostatnich miesiącach "
+X108,"Średnia kwota wydatków klienta związanych z dziećmi tj. zabawki, opiekunki, ubranka i kolonie w 3 ostatnich miesiącach "
+X109,"Sumaryczna liczba wydatków klienta związanych z dziećmi tj. zabawki, opiekunki, ubranka i kolonie w ostatnim pełnym miesiącu "
+X110,"Sumaryczna liczba wydatków klienta związanych z dziećmi tj. zabawki, opiekunki, ubranka i kolonie w 3 ostatnich miesiącach "
+X111,"Sumaryczna liczba wydatków klienta związanych z dziećmi tj. zabawki, opiekunki, ubranka i kolonie w 6 ostatnich miesiącach "
+X112,"Udział kwoty wydatków klienta związanych z dziećmi tj. zabawki, opiekunki, ubranka i kolonie w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu "
+X113,"Udział kwoty wydatków klienta związanych z dziećmi tj. zabawki, opiekunki, ubranka i kolonie w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach "
+X114,"Udział kwoty wydatków klienta związanych z dziećmi tj. zabawki, opiekunki, ubranka i kolonie w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach "
+X115,Sumaryczna kwota wydatków klienta związanych z elektroniką w ostatnim pełnym miesiącu 
+X116,Sumaryczna kwota wydatków klienta związanych z elektroniką w 3 ostatnich miesiącach 
+X117,Sumaryczna kwota wydatków klienta związanych z elektroniką w 6 ostatnich miesiącach 
+X118,Średnia kwota wydatków klienta związanych z elektroniką w 3 ostatnich miesiącach 
+X119,Sumaryczna liczba wydatków klienta związanych z elektroniką w ostatnim pełnym miesiącu 
+X120,Sumaryczna liczba wydatków klienta związanych z elektroniką w 3 ostatnich miesiącach 
+X121,Sumaryczna liczba wydatków klienta związanych z elektroniką w 6 ostatnich miesiącach 
+X122,Udział kwoty wydatków klienta związanych z elektroniką w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X123,Udział kwoty wydatków klienta związanych z elektroniką w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X124,Udział kwoty wydatków klienta związanych z elektroniką w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X125,Sumaryczna kwota wydatków klienta w fastfoodach w ostatnim pełnym miesiącu 
+X126,Sumaryczna kwota wydatków klienta w fastfoodach w 3 ostatnich miesiącach 
+X127,Sumaryczna kwota wydatków klienta w fastfoodach w 6 ostatnich miesiącach 
+X128,Średnia kwota wydatków klienta w fastfoodach w 3 ostatnich miesiącach 
+X129,Sumaryczna liczba wydatków klienta w fastfoodach w ostatnim pełnym miesiącu 
+X130,Sumaryczna liczba wydatków klienta w fastfoodach w 3 ostatnich miesiącach 
+X131,Sumaryczna liczba wydatków klienta w fastfoodach w 6 ostatnich miesiącach 
+X132,Udział kwoty wydatków klienta w fastfoodach w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X133,Udział kwoty wydatków klienta w fastfoodach w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X134,Udział kwoty wydatków klienta w fastfoodach w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X135,Sumaryczna kwota wydatków klienta w hipermarketach w ostatnim pełnym miesiącu 
+X136,Sumaryczna kwota wydatków klienta w hipermarketach w 3 ostatnich miesiącach 
+X137,Sumaryczna kwota wydatków klienta w hipermarketach w 6 ostatnich miesiącach 
+X138,Średnia kwota wydatków klienta w hipermarketach w 3 ostatnich miesiącach 
+X139,Sumaryczna liczba wydatków klienta w hipermarketach w ostatnim pełnym miesiącu 
+X140,Sumaryczna liczba wydatków klienta w hipermarketach w 3 ostatnich miesiącach 
+X141,Sumaryczna liczba wydatków klienta w hipermarketach w 6 ostatnich miesiącach 
+X142,Udział kwoty wydatków klienta w hipermarketach w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X143,Udział kwoty wydatków klienta w hipermarketach w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X144,Udział kwoty wydatków klienta w hipermarketach w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X145,Sumaryczna kwota wydatków klienta związanych z hobby w ostatnim pełnym miesiącu 
+X146,Sumaryczna kwota wydatków klienta związanych z hobby w 3 ostatnich miesiącach 
+X147,Sumaryczna kwota wydatków klienta związanych z hobby w 6 ostatnich miesiącach 
+X148,Średnia kwota wydatków klienta związanych z hobby w 3 ostatnich miesiącach 
+X149,Sumaryczna liczba wydatków klienta związanych z hobby w ostatnim pełnym miesiącu 
+X150,Sumaryczna liczba wydatków klienta związanych z hobby w 3 ostatnich miesiącach 
+X151,Sumaryczna liczba wydatków klienta związanych z hobby w 6 ostatnich miesiącach 
+X152,Udział kwoty wydatków klienta związanych z hobby w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X153,Udział kwoty wydatków klienta związanych z hobby w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X154,Udział kwoty wydatków klienta związanych z hobby w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X155,Sumaryczna kwota wydatków klienta w kawiarniach w ostatnim pełnym miesiącu 
+X156,Sumaryczna kwota wydatków klienta w kawiarniach w 3 ostatnich miesiącach 
+X157,Sumaryczna kwota wydatków klienta w kawiarniach w 6 ostatnich miesiącach 
+X158,Średnia kwota wydatków klienta w kawiarniach w 3 ostatnich miesiącach 
+X159,Sumaryczna liczba wydatków klienta w kawiarniach w ostatnim pełnym miesiącu 
+X160,Sumaryczna liczba wydatków klienta w kawiarniach w 3 ostatnich miesiącach 
+X161,Sumaryczna liczba wydatków klienta w kawiarniach w 6 ostatnich miesiącach 
+X162,Udział kwoty wydatków klienta w kawiarniach w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X163,Udział kwoty wydatków klienta w kawiarniach w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X164,Udział kwoty wydatków klienta w kawiarniach w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X165,Sumaryczna kwota wydatków klienta na kino w ostatnim pełnym miesiącu 
+X166,Sumaryczna kwota wydatków klienta na kino w 3 ostatnich miesiącach 
+X167,Sumaryczna kwota wydatków klienta na kino w 6 ostatnich miesiącach 
+X168,Średnia kwota wydatków klienta na kino w 3 ostatnich miesiącach 
+X169,Sumaryczna liczba wydatków klienta na kino w ostatnim pełnym miesiącu 
+X170,Sumaryczna liczba wydatków klienta na kino w 3 ostatnich miesiącach 
+X171,Sumaryczna liczba wydatków klienta na kino w 6 ostatnich miesiącach 
+X172,Udział kwoty wydatków klienta na kino w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X173,Udział kwoty wydatków klienta na kino w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X174,Udział kwoty wydatków klienta na kino w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X175,Sumaryczna kwota wydatków klienta związanych z wydarzeniami kulturalnymi w ostatnim pełnym miesiącu 
+X176,Sumaryczna kwota wydatków klienta związanych z wydarzeniami kulturalnymi w 3 ostatnich miesiącach 
+X177,Sumaryczna kwota wydatków klienta związanych z wydarzeniami kulturalnymi w 6 ostatnich miesiącach 
+X178,Średnia kwota wydatków klienta związanych z wydarzeniami kulturalnymi w 3 ostatnich miesiącach 
+X179,Sumaryczna liczba wydatków klienta związanych z wydarzeniami kulturalnymi w ostatnim pełnym miesiącu 
+X180,Sumaryczna liczba wydatków klienta związanych z wydarzeniami kulturalnymi w 3 ostatnich miesiącach 
+X181,Sumaryczna liczba wydatków klienta związanych z wydarzeniami kulturalnymi w 6 ostatnich miesiącach 
+X182,Udział kwoty wydatków klienta związanych z wydarzeniami kulturalnymi w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X183,Udział kwoty wydatków klienta związanych z wydarzeniami kulturalnymi w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X184,Udział kwoty wydatków klienta związanych z wydarzeniami kulturalnymi w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X185,Sumaryczna kwota wydatków klienta związanych z transportem LOT w ostatnim pełnym miesiącu 
+X186,Sumaryczna kwota wydatków klienta związanych z transportem LOT w 3 ostatnich miesiącach 
+X187,Sumaryczna kwota wydatków klienta związanych z transportem LOT w 6 ostatnich miesiącach 
+X188,Średnia kwota wydatków klienta związanych z transportem LOT w 3 ostatnich miesiącach 
+X189,Sumaryczna liczba wydatków klienta związanych z transportem LOT w ostatnim pełnym miesiącu 
+X190,Sumaryczna liczba wydatków klienta związanych z transportem LOT w 3 ostatnich miesiącach 
+X191,Sumaryczna liczba wydatków klienta związanych z transportem LOT w 6 ostatnich miesiącach 
+X192,Udział kwoty wydatków klienta związanych z transportem LOT w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X193,Udział kwoty wydatków klienta związanych z transportem LOT w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X194,Udział kwoty wydatków klienta związanych z transportem LOT w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X195,Sumaryczna kwota wydatków klienta na usługi medyczne w ostatnim pełnym miesiącu 
+X196,Sumaryczna kwota wydatków klienta na usługi medyczne w 3 ostatnich miesiącach 
+X197,Sumaryczna kwota wydatków klienta na usługi medyczne w 6 ostatnich miesiącach 
+X198,Średnia kwota wydatków klienta na usługi medyczne w 3 ostatnich miesiącach 
+X199,Sumaryczna liczba wydatków klienta na usługi medyczne w ostatnim pełnym miesiącu 
+X200,Sumaryczna liczba wydatków klienta na usługi medyczne w 3 ostatnich miesiącach 
+X201,Sumaryczna liczba wydatków klienta na usługi medyczne w 6 ostatnich miesiącach 
+X202,Udział kwoty wydatków klienta na usługi medyczne w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X203,Udział kwoty wydatków klienta na usługi medyczne w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X204,Udział kwoty wydatków klienta na usługi medyczne w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X205,Sumaryczna kwota wydatków klienta na komunikację miejską w ostatnim pełnym miesiącu 
+X206,Sumaryczna kwota wydatków klienta na komunikację miejską w 3 ostatnich miesiącach 
+X207,Sumaryczna kwota wydatków klienta na komunikację miejską w 6 ostatnich miesiącach 
+X208,Średnia kwota wydatków klienta na komunikację miejską w 3 ostatnich miesiącach 
+X209,Sumaryczna liczba wydatków klienta na komunikację miejską w ostatnim pełnym miesiącu 
+X210,Sumaryczna liczba wydatków klienta na komunikację miejską w 3 ostatnich miesiącach 
+X211,Sumaryczna liczba wydatków klienta na komunikację miejską w 6 ostatnich miesiącach 
+X212,Udział kwoty wydatków klienta na komunikację miejską w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X213,Udział kwoty wydatków klienta na komunikację miejską w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X214,Udział kwoty wydatków klienta na komunikację miejską w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X215,"Sumaryczna kwota wydatków klienta na opłaty (suma zmiennych: na prąd, na czynsz, na usługi sprzątające, związanych z abonamentem za telefon i telewizję) w ostatnim pełnym miesiącu "
+X216,"Sumaryczna kwota wydatków klienta na opłaty (suma zmiennych: na prąd, na czynsz, na usługi sprzątające, związanych z abonamentem za telefon i telewizję) w 3 ostatnich miesiącach "
+X217,"Sumaryczna kwota wydatków klienta na opłaty (suma zmiennych: na prąd, na czynsz, na usługi sprzątające, związanych z abonamentem za telefon i telewizję) w 6 ostatnich miesiącach "
+X218,"Sumaryczna liczba wydatków klienta na opłaty (suma zmiennych: na prąd, na czynsz, na usługi sprzątające, związanych z abonamentem za telefon i telewizję) w ostatnim pełnym miesiącu "
+X219,"Sumaryczna liczba wydatków klienta na opłaty (suma zmiennych: na prąd, na czynsz, na usługi sprzątające, związanych z abonamentem za telefon i telewizję) w 3 ostatnich miesiącach "
+X220,"Sumaryczna liczba wydatków klienta na opłaty (suma zmiennych: na prąd, na czynsz, na usługi sprzątające, związanych z abonamentem za telefon i telewizję) w 6 ostatnich miesiącach "
+X221,"Udział kwoty wydatków klienta na opłaty (suma zmiennych: na prąd, na czynsz, na usługi sprzątające, związanych z abonamentem za telefon i telewizję) w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu "
+X222,"Udział kwoty wydatków klienta na opłaty (suma zmiennych: na prąd, na czynsz, na usługi sprzątające, związanych z abonamentem za telefon i telewizję) w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach "
+X223,"Udział kwoty wydatków klienta na opłaty (suma zmiennych: na prąd, na czynsz, na usługi sprzątające, związanych z abonamentem za telefon i telewizję) w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach "
+X224,Sumaryczna kwota wydatków klienta związanych z transportem PKP w ostatnim pełnym miesiącu 
+X225,Sumaryczna kwota wydatków klienta związanych z transportem PKP w 3 ostatnich miesiącach 
+X226,Sumaryczna kwota wydatków klienta związanych z transportem PKP w 6 ostatnich miesiącach 
+X227,Średnia kwota wydatków klienta związanych z transportem PKP w 3 ostatnich miesiącach 
+X228,Sumaryczna liczba wydatków klienta związanych z transportem PKP w ostatnim pełnym miesiącu 
+X229,Sumaryczna liczba wydatków klienta związanych z transportem PKP w 3 ostatnich miesiącach 
+X230,Sumaryczna liczba wydatków klienta związanych z transportem PKP w 6 ostatnich miesiącach 
+X231,Udział kwoty wydatków klienta związanych z transportem PKP w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X232,Udział kwoty wydatków klienta związanych z transportem PKP w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X233,Udział kwoty wydatków klienta związanych z transportem PKP w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X234,Sumaryczna kwota wydatków klienta związanych z transportem PKS w ostatnim pełnym miesiącu 
+X235,Sumaryczna kwota wydatków klienta związanych z transportem PKS w 3 ostatnich miesiącach 
+X236,Sumaryczna kwota wydatków klienta związanych z transportem PKS w 6 ostatnich miesiącach 
+X237,Średnia kwota wydatków klienta związanych z transportem PKS w 3 ostatnich miesiącach 
+X238,Sumaryczna liczba wydatków klienta związanych z transportem PKS w ostatnim pełnym miesiącu 
+X239,Sumaryczna liczba wydatków klienta związanych z transportem PKS w 3 ostatnich miesiącach 
+X240,Sumaryczna liczba wydatków klienta związanych z transportem PKS w 6 ostatnich miesiącach 
+X241,Udział kwoty wydatków klienta związanych z transportem PKS w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X242,Udział kwoty wydatków klienta związanych z transportem PKS w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X243,Udział kwoty wydatków klienta związanych z transportem PKS w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X244,Sumaryczna kwota wydatków klienta na prąd w ostatnim pełnym miesiącu 
+X245,Sumaryczna kwota wydatków klienta na prąd w 3 ostatnich miesiącach 
+X246,Sumaryczna kwota wydatków klienta na prąd w 6 ostatnich miesiącach 
+X247,Średnia kwota wydatków klienta na prąd w 3 ostatnich miesiącach 
+X248,Sumaryczna liczba wydatków klienta na prąd w ostatnim pełnym miesiącu 
+X249,Sumaryczna liczba wydatków klienta na prąd w 3 ostatnich miesiącach 
+X250,Sumaryczna liczba wydatków klienta na prąd w 6 ostatnich miesiącach 
+X251,Udział kwoty wydatków klienta na prąd w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X252,Udział kwoty wydatków klienta na prąd w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X253,Udział kwoty wydatków klienta na prąd w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X254,"Sumaryczna kwota wydatków klienta na dodatkowe potrzeby (suma zmiennych: na hobby, na kino, na teatr, w restauracjach, na udział w wydarzeniach kulturalnych, na spa, w kawiarniach, na ubrania) w ostatnim pełnym miesiącu "
+X255,"Sumaryczna kwota wydatków klienta na dodatkowe potrzeby (suma zmiennych: na hobby, na kino, na teatr, w restauracjach, na udział w wydarzeniach kulturalnych, na spa, w kawiarniach, na ubrania) w 3 ostatnich miesiącach "
+X256,"Sumaryczna kwota wydatków klienta na dodatkowe potrzeby (suma zmiennych: na hobby, na kino, na teatr, w restauracjach, na udział w wydarzeniach kulturalnych, na spa, w kawiarniach, na ubrania) w 6 ostatnich miesiącach "
+X257,"Sumaryczna liczba wydatków klienta na dodatkowe potrzeby (suma zmiennych: na hobby, na kino, na teatr, w restauracjach, na udział w wydarzeniach kulturalnych, na spa, w kawiarniach, na ubrania) w ostatnim pełnym miesiącu "
+X258,"Sumaryczna liczba wydatków klienta na dodatkowe potrzeby (suma zmiennych: na hobby, na kino, na teatr, w restauracjach, na udział w wydarzeniach kulturalnych, na spa, w kawiarniach, na ubrania) w 3 ostatnich miesiącach "
+X259,"Sumaryczna liczba wydatków klienta na dodatkowe potrzeby (suma zmiennych: na hobby, na kino, na teatr, w restauracjach, na udział w wydarzeniach kulturalnych, na spa, w kawiarniach, na ubrania) w 6 ostatnich miesiącach "
+X260,"Udział kwoty wydatków klienta na dodatkowe potrzeby (suma zmiennych: na hobby, na kino, na teatr, w restauracjach, na udział w wydarzeniach kulturalnych, na spa, w kawiarniach, na ubrania) w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu "
+X261,"Udział kwoty wydatków klienta na dodatkowe potrzeby (suma zmiennych: na hobby, na kino, na teatr, w restauracjach, na udział w wydarzeniach kulturalnych, na spa, w kawiarniach, na ubrania) w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach "
+X262,"Udział kwoty wydatków klienta na dodatkowe potrzeby (suma zmiennych: na hobby, na kino, na teatr, w restauracjach, na udział w wydarzeniach kulturalnych, na spa, w kawiarniach, na ubrania) w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach "
+X263,Sumaryczna kwota wydatków klienta związanych z remontem w ostatnim pełnym miesiącu 
+X264,Sumaryczna kwota wydatków klienta związanych z remontem w 3 ostatnich miesiącach 
+X265,Sumaryczna kwota wydatków klienta związanych z remontem w 6 ostatnich miesiącach 
+X266,Średnia kwota wydatków klienta związanych z remontem w 3 ostatnich miesiącach 
+X267,Sumaryczna liczba wydatków klienta związanych z remontem w ostatnim pełnym miesiącu 
+X268,Sumaryczna liczba wydatków klienta związanych z remontem w 3 ostatnich miesiącach 
+X269,Sumaryczna liczba wydatków klienta związanych z remontem w 6 ostatnich miesiącach 
+X270,Udział kwoty wydatków klienta związanych z remontem w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X271,Udział kwoty wydatków klienta związanych z remontem w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X272,Udział kwoty wydatków klienta związanych z remontem w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X273,Sumaryczna kwota wydatków klienta w restauracjach w ostatnim pełnym miesiącu 
+X274,Sumaryczna kwota wydatków klienta w restauracjach w 3 ostatnich miesiącach 
+X275,Sumaryczna kwota wydatków klienta w restauracjach w 6 ostatnich miesiącach 
+X276,Średnia kwota wydatków klienta w restauracjach w 3 ostatnich miesiącach 
+X277,Sumaryczna liczba wydatków klienta w restauracjach w ostatnim pełnym miesiącu 
+X278,Sumaryczna liczba wydatków klienta w restauracjach w 3 ostatnich miesiącach 
+X279,Sumaryczna liczba wydatków klienta w restauracjach w 6 ostatnich miesiącach 
+X280,Udział kwoty wydatków klienta w restauracjach w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X281,Udział kwoty wydatków klienta w restauracjach w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X282,Udział kwoty wydatków klienta w restauracjach w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X283,Sumaryczna kwota wydatków klienta na spa w ostatnim pełnym miesiącu 
+X284,Sumaryczna kwota wydatków klienta na spa w 3 ostatnich miesiącach 
+X285,Sumaryczna kwota wydatków klienta na spa w 6 ostatnich miesiącach 
+X286,Średnia kwota wydatków klienta na spa w 3 ostatnich miesiącach 
+X287,Sumaryczna liczba wydatków klienta na spa w ostatnim pełnym miesiącu 
+X288,Sumaryczna liczba wydatków klienta na spa w 3 ostatnich miesiącach 
+X289,Sumaryczna liczba wydatków klienta na spa w 6 ostatnich miesiącach 
+X290,Udział kwoty wydatków klienta na spa w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X291,Udział kwoty wydatków klienta na spa w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X292,Udział kwoty wydatków klienta na spa w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X293,Sumaryczna kwota wydatków klienta związanych z usługami sprzątającymi w ostatnim pełnym miesiącu 
+X294,Sumaryczna kwota wydatków klienta związanych z usługami sprzątającymi w 3 ostatnich miesiącach 
+X295,Sumaryczna kwota wydatków klienta związanych z usługami sprzątającymi w 6 ostatnich miesiącach 
+X296,Średnia kwota wydatków klienta związanych z usługami sprzątającymi w 3 ostatnich miesiącach 
+X297,Sumaryczna liczba wydatków klienta związanych z usługami sprzątającymi w ostatnim pełnym miesiącu 
+X298,Sumaryczna liczba wydatków klienta związanych z usługami sprzątającymi w 3 ostatnich miesiącach 
+X299,Sumaryczna liczba wydatków klienta związanych z usługami sprzątającymi w 6 ostatnich miesiącach 
+X300,Udział kwoty wydatków klienta związanych z usługami sprzątającymi w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X301,Udział kwoty wydatków klienta związanych z usługami sprzątającymi w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X302,Udział kwoty wydatków klienta związanych z usługami sprzątającymi w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X303,Sumaryczna kwota wydatków klienta związanych ze szkołą/przedszkolem w ostatnim pełnym miesiącu 
+X304,Sumaryczna kwota wydatków klienta związanych ze szkołą/przedszkolem w 3 ostatnich miesiącach 
+X305,Sumaryczna kwota wydatków klienta związanych ze szkołą/przedszkolem w 6 ostatnich miesiącach 
+X306,Średnia kwota wydatków klienta związanych ze szkołą/przedszkolem w 3 ostatnich miesiącach 
+X307,Sumaryczna liczba wydatków klienta związanych ze szkołą/przedszkolem w ostatnim pełnym miesiącu 
+X308,Sumaryczna liczba wydatków klienta związanych ze szkołą/przedszkolem w 3 ostatnich miesiącach 
+X309,Sumaryczna liczba wydatków klienta związanych ze szkołą/przedszkolem w 6 ostatnich miesiącach 
+X310,Udział kwoty wydatków klienta związanych ze szkołą/przedszkolem w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X311,Udział kwoty wydatków klienta związanych ze szkołą/przedszkolem w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X312,Udział kwoty wydatków klienta związanych ze szkołą/przedszkolem w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X313,Sumaryczna kwota wydatków klienta na teatr w ostatnim pełnym miesiącu 
+X314,Sumaryczna kwota wydatków klienta na teatr w 3 ostatnich miesiącach 
+X315,Sumaryczna kwota wydatków klienta na teatr w 6 ostatnich miesiącach 
+X316,Średnia kwota wydatków klienta na teatr w 3 ostatnich miesiącach 
+X317,Sumaryczna liczba wydatków klienta na teatr w ostatnim pełnym miesiącu 
+X318,Sumaryczna liczba wydatków klienta na teatr w 3 ostatnich miesiącach 
+X319,Sumaryczna liczba wydatków klienta na teatr w 6 ostatnich miesiącach 
+X320,Udział kwoty wydatków klienta na teatr w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X321,Udział kwoty wydatków klienta na teatr w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X322,Udział kwoty wydatków klienta na teatr w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X323,"Sumaryczna kwota wydatków klienta związanych z transportem (suma zmiennych: transport PKP, transport PKS, transport LOT, na komunikację miejską) w ostatnim pełnym miesiącu "
+X324,"Sumaryczna kwota wydatków klienta związanych z transportem (suma zmiennych: transport PKP, transport PKS, transport LOT, na komunikację miejską) w 3 ostatnich miesiącach "
+X325,"Sumaryczna kwota wydatków klienta związanych z transportem (suma zmiennych: transport PKP, transport PKS, transport LOT, na komunikację miejską) w 6 ostatnich miesiącach "
+X326,"Sumaryczna liczba wydatków klienta związanych z transportem (suma zmiennych: transport PKP, transport PKS, transport LOT, na komunikację miejską) w ostatnim pełnym miesiącu "
+X327,"Sumaryczna liczba wydatków klienta związanych z transportem (suma zmiennych: transport PKP, transport PKS, transport LOT, na komunikację miejską) w 3 ostatnich miesiącach "
+X328,"Sumaryczna liczba wydatków klienta związanych z transportem (suma zmiennych: transport PKP, transport PKS, transport LOT, na komunikację miejską) w 6 ostatnich miesiącach "
+X329,"Udział kwoty wydatków klienta związanych z transportem (suma zmiennych: transport PKP, transport PKS, transport LOT, na komunikację miejską) w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu "
+X330,"Udział kwoty wydatków klienta związanych z transportem (suma zmiennych: transport PKP, transport PKS, transport LOT, na komunikację miejską) w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach "
+X331,"Udział kwoty wydatków klienta związanych z transportem (suma zmiennych: transport PKP, transport PKS, transport LOT, na komunikację miejską) w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach "
+X332,Sumaryczna kwota wydatków klienta na ubrania w ostatnim pełnym miesiącu 
+X333,Sumaryczna kwota wydatków klienta na ubrania w 3 ostatnich miesiącach 
+X334,Sumaryczna kwota wydatków klienta na ubrania w 6 ostatnich miesiącach 
+X335,Średnia kwota wydatków klienta na ubrania w 3 ostatnich miesiącach 
+X336,Sumaryczna liczba wydatków klienta na ubrania w ostatnim pełnym miesiącu 
+X337,Sumaryczna liczba wydatków klienta na ubrania w 3 ostatnich miesiącach 
+X338,Sumaryczna liczba wydatków klienta na ubrania w 6 ostatnich miesiącach 
+X339,Udział kwoty wydatków klienta na ubrania w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu 
+X340,Udział kwoty wydatków klienta na ubrania w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach 
+X341,Udział kwoty wydatków klienta na ubrania w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach 
+X342,"Sumaryczna kwota wydatków klienta na żywność (suma zmiennych: zakupy w hipermarketach, dyskontach, delikatesach i fastfoodach) w ostatnim pełnym miesiącu "
+X343,"Sumaryczna kwota wydatków klienta na żywność (suma zmiennych: zakupy w hipermarketach, dyskontach, delikatesach i fastfoodach) w 3 ostatnich miesiącach "
+X344,"Sumaryczna kwota wydatków klienta na żywność (suma zmiennych: zakupy w hipermarketach, dyskontach, delikatesach i fastfoodach) w 6 ostatnich miesiącach "
+X345,"Sumaryczna liczba wydatków klienta na żywność (suma zmiennych: zakupy w hipermarketach, dyskontach, delikatesach i fastfoodach) w ostatnim pełnym miesiącu "
+X346,"Sumaryczna liczba wydatków klienta na żywność (suma zmiennych: zakupy w hipermarketach, dyskontach, delikatesach i fastfoodach) w 3 ostatnich miesiącach "
+X347,"Sumaryczna liczba wydatków klienta na żywność (suma zmiennych: zakupy w hipermarketach, dyskontach, delikatesach i fastfoodach) w 6 ostatnich miesiącach "
+X348,"Udział kwoty wydatków klienta na żywność (suma zmiennych: zakupy w hipermarketach, dyskontach, delikatesach i fastfoodach) w ostatnim pełnym miesiącu w wydatkach całkowitych klienta  w ostatnim pełnym miesiącu "
+X349,"Udział kwoty wydatków klienta na żywność (suma zmiennych: zakupy w hipermarketach, dyskontach, delikatesach i fastfoodach) w 3 ostatnich miesiącach w wydatkach całkowitych klienta  w 3 ostatnich miesiącach "
+X350,"Udział kwoty wydatków klienta na żywność (suma zmiennych: zakupy w hipermarketach, dyskontach, delikatesach i fastfoodach) w 6 ostatnich miesiącach w wydatkach całkowitych klienta  w 6 ostatnich miesiącach "
+X351,Sumaryczna kwota wpływów klienta w ostatnim pełnym miesiącu
+X352,Sumaryczna kwota wpływów klienta w 3 ostatnich miesiącach
+X353,Sumaryczna kwota wpływów klienta w 6 ostatnich miesiącach
+X354,Średnia kwota wpływów klienta w 3 ostatnich miesiącach
+X355,Sumaryczna liczba wpływów klienta w ostatnim pełnym miesiącu
+X356,Sumaryczna liczba wpływów klienta w 3 ostatnich miesiącach
+X357,Sumaryczna liczba wpływów klienta w 6 ostatnich miesiącach
+X358,Sumaryczna kwota wpływów klienta z tytułu emerytury w ostatnim pełnym miesiącu
+X359,Sumaryczna kwota wpływów klienta z tytułu emerytury w 3 ostatnich miesiącach
+X360,Sumaryczna kwota wpływów klienta z tytułu emerytury w 6 ostatnich miesiącach
+X361,Średnia kwota wpływów klienta z tytułu emerytury w 3 ostatnich miesiącach
+X362,Sumaryczna liczba wpływów klienta z tytułu emerytury w ostatnim pełnym miesiącu
+X363,Sumaryczna liczba wpływów klienta z tytułu emerytury w 3 ostatnich miesiącach
+X364,Sumaryczna liczba wpływów klienta z tytułu emerytury w 6 ostatnich miesiącach
+X365,Sumaryczna kwota wpływów klienta za najem w ostatnim pełnym miesiącu
+X366,Sumaryczna kwota wpływów klienta za najem w 3 ostatnich miesiącach
+X367,Sumaryczna kwota wpływów klienta za najem w 6 ostatnich miesiącach
+X368,Średnia kwota wpływów klienta za najem w 3 ostatnich miesiącach
+X369,Sumaryczna liczba wpływów klienta za najem w ostatnim pełnym miesiącu
+X370,Sumaryczna liczba wpływów klienta za najem w 3 ostatnich miesiącach
+X371,Sumaryczna liczba wpływów klienta za najem w 6 ostatnich miesiącach
+X372,Sumaryczna kwota wpływów klienta z tytułu stypendium w ostatnim pełnym miesiącu
+X373,Sumaryczna kwota wpływów klienta z tytułu stypendium w 3 ostatnich miesiącach
+X374,Sumaryczna kwota wpływów klienta z tytułu stypendium w 6 ostatnich miesiącach
+X375,Średnia kwota wpływów klienta z tytułu stypendium w 3 ostatnich miesiącach
+X376,Sumaryczna liczba wpływów klienta z tytułu stypendium w ostatnim pełnym miesiącu
+X377,Sumaryczna liczba wpływów klienta z tytułu stypendium w 3 ostatnich miesiącach
+X378,Sumaryczna liczba wpływów klienta z tytułu stypendium w 6 ostatnich miesiącach
+X379,Sumaryczna kwota wpływów klienta za wynagrodzenia w ostatnim pełnym miesiącu
+X380,Sumaryczna kwota wpływów klienta za wynagrodzenia w 3 ostatnich miesiącach
+X381,Sumaryczna kwota wpływów klienta za wynagrodzenia w 6 ostatnich miesiącach
+X382,Średnia kwota wpływów klienta za wynagrodzenia w 3 ostatnich miesiącach
+X383,Sumaryczna liczba wpływów klienta za wynagrodzenia w ostatnim pełnym miesiącu
+X384,Sumaryczna liczba wpływów klienta za wynagrodzenia w 3 ostatnich miesiącach
+X385,Sumaryczna liczba wpływów klienta za wynagrodzenia w 6 ostatnich miesiącach
+X386,Wiek klienta
