@@ -1,3 +1,7 @@
+Projekt dotyczący wyjaśnialności black-boxów. 
+Finalny rozdział: https://pbiecek.github.io/xai_stories_3/story-true-income-prediction-based-on-client-expenses.html
+
+
 Struktura katalogów
 
 ```
